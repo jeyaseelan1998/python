@@ -1,0 +1,17 @@
+SH_CLERK   = 2
+AD_ASST    = 1
+MK_MAN     = 1
+MK_REP     = 1
+HR_REP     = 1
+PR_REP     = 1
+AC_MGR     = 1
+AC_ACCOUNT = 1
+AD_PRES    = 1
+AD_VP      = 2
+IT_PROG    = 5
+FI_MGR     = 1
+FI_ACCOUNT = 5
+PU_MAN     = 1
+PU_CLERK   = 5
+ST_MAN     = 5
+ST_CLERK   = 16

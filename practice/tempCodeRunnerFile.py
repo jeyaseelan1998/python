@@ -1,0 +1,2 @@
+
+        subarr = squares[:i]
